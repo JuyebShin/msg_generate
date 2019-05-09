@@ -2,5 +2,5 @@
 
 local to master topic : "position"
 
-int area
-int yaw
+int area;
+int yaw;
